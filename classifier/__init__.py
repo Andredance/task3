@@ -1,0 +1,4 @@
+from classifier.base import DigitClassificationInterface
+from classifier.cnn_classifier import CnnClassifier
+from classifier.rf_classifier import RandomForestClassifier
+from classifier.rand_classifier import RandomClassifier
